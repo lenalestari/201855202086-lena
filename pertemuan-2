@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tugas-2</title>
+</head>
+<body>
+	<h1>Tugas Pemrograman Web</h1>
+	<h4>Teknik Informatika Muhammadiyah Sorong</h4>
+	<hr width=100% size=9 color=black justify>
+	<pre>		HOME		|	ack	PROFILE		|		ABOUT		|		GALLERY		|		KONTAK		</pre>
+	<hr width=100% size=9 color=black low align=center>
+	<h2>Pengetian PHP</h2>
+	<p align="justify">PHP merupakan bahasa pemrograman yang populer hingga saat ini mengalahkan beberapa bahasa pemrograman lainnya, termasuk ASP.NET. Berdasarkan hasil survey dari W3Techs.com, PHP mendapatkan prosentase 78.9% mengalahkan bahasa pemrograman lainnya. Tentu ini prosentase yang besar jika dibandingkan dengan lainnya. Memang secara fungsi PHP bukan yang terbaik jika dibandingkan pemrograman web lainnya, tetapi secara pengguna PHP masih menjadi nomor satu.
+
+.</p>
+
+	<hr width=100% size=8 color=black align=center>
+
+	<blockquote>== Admin Web, Lena Lestari ==</blockquote>
+
+</body>
+</html> 
